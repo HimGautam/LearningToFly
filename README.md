@@ -51,7 +51,7 @@ Note: Each library must be compatible with others libraries to be installed.
 After installing the dependencies you can either train the agent yourself or test my results. Keep all the files in the same folder. Open the file named ```DroneTD3``` on jupyter notebook and run the all the cells before training cell. You can test my results by running all cell below training cell.
 
 
+# Conclusion
 
-
-
+Although, I tried to train the agent expecting satisfactory results but the performance of the system if below my satisfaction. Drone responds to change in target position but does not fully reaches the target position. For some targets drones seems to oscillate back and forth due to unknown reasons. Thus, more work needs to be done before low level control can be achieved.
 
